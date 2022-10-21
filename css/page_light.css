@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background: white;
+    color: black;
+    margin: auto;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu {
+    position:absolute;
+    left:85%;
+  }
+
+
+.menu img:hover {
+    filter: brightness(0) invert(0.75);
+}
+
+.menu img {
+    margin-right: 10px;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.red {
+    color:red;
+}
+
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}
+
+.pink {
+    color: pink;
+}
+
+.orange {
+    color: #d67c06;
+}
+
+.yellow {
+    color: yellow;
+}
+

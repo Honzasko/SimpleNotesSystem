@@ -1,0 +1,39 @@
+body {
+    background: white;
+    color: black;
+    margin: none;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    margin-bottom: 15px;
+    border: none;
+    width: 25em;
+    height: 3em;
+    background-color: #bbbfbc;
+}
+
+
+button:hover {
+    color:white;
+    cursor: pointer;
+    background-color: #424242;
+}
+
+.menu {
+  position:absolute;
+  left:75%;
+}
+
+
+.menu img {
+    margin-right: 10px;
+}
+
+.menu img:hover {
+    filter: brightness(0) invert(0.75);
+}
